@@ -1,0 +1,3 @@
+# HackerEarth-Machine-Learning-challenge-Adopt-a-buddy
+
+Numerous organizations across the world provide shelter to all homeless animals until they are adopted into a new home. However, finding a loving family for them can be a daunting task at times. The brighter side of the corona pandemic is an increase in animal adoption and fostering. To ensure that their customers stay indoors, a leading pet adoption agency plans on creating a virtual-tour experience, showcasing all animals available in their shelter. To enable that, I built a Machine Learning model that determines type and breed of the animal based on its physical attributes and other factors.
